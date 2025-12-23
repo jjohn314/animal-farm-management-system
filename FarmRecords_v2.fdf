@@ -1,0 +1,17 @@
+ID: 230, Breed: Rabbit, Age: 1, Weight: 2.5kg, RFID: rabbitrfid008, Health: Active and playful, Feeding: Fed carrots at 2 PM, Updated: 2025-04-03
+ID: 231, Breed: Pig, Age: 5, Weight: 180.0kg, RFID: pigrfid009, Health: Overweight, Feeding: Fed mixed grains at 7 AM, Updated: 2025-04-04
+ID: 232, Breed: Llama, Age: 6, Weight: 160.0kg, RFID: llamarfid010, Health: Healthy, Feeding: Fed hay at 12 PM, Updated: 2025-04-03
+ID: 233, Breed: Chicken, Age: 1, Weight: 3.5kg, RFID: chickenrfid011, Health: Healthy, Feeding: Fed corn at 6 AM, Updated: 2025-04-03
+ID: 222, Breed: Dog, Age: 3, Weight: 12.0kg, RFID: dogrfid002, Health: Healthy, Feeding: No feeding data yet, Updated: 2025-04-04
+ID: 123, Breed: Cat, Age: 2, Weight: 12.0kg, RFID: saafa, Health: Healthy, Feeding: No feeding data yet, Updated: 2025-04-04
+ID: 223, Breed: Dog, Age: 5, Weight: 20.5kg, RFID: dogrfid001, Health: Healthy, Feeding: Fed at 10 Am, Updated: 2025-04-04
+ID: 234, Breed: Duck, Age: 2, Weight: 4.0kg, RFID: duckrfid012, Health: Healthy, Feeding: Fed grains at 8 AM, Updated: 2025-04-03
+ID: 224, Breed: Cat, Age: 4, Weight: 9.2kg, RFID: catrfid002, Health: Recovered from flu, Feeding: Fed at 9 AM, Updated: 2025-04-03
+ID: 235, Breed: Turkey, Age: 3, Weight: 6.0kg, RFID: turkeyrfid013, Health: Under observation, Feeding: Fed at 10 AM, Updated: 2025-04-03
+ID: 225, Breed: Parrot, Age: 2, Weight: 1.1kg, RFID: parrotrfid003, Health: Sick, Feeding: Fed seeds at 7 AM, Updated: 2025-04-03
+ID: 236, Breed: Alpaca, Age: 7, Weight: 140.0kg, RFID: alpacarfid014, Health: Healthy, Feeding: Fed hay at 1 PM, Updated: 2025-04-03
+ID: 226, Breed: Horse, Age: 15, Weight: 350.0kg, RFID: horserfid004, Health: Needs hoof trimming, Feeding: Fed hay at 5 PM, Updated: 2025-04-03
+ID: 237, Breed: Donkey, Age: 10, Weight: 200.0kg, RFID: donkeyrfid015, Health: Requires dental check, Feeding: Fed straw at 4 PM, Updated: 2025-04-03
+ID: 227, Breed: Cow, Age: 3, Weight: 250.0kg, RFID: cowrfid005, Health: Under vet observation, Feeding: Fed grains at 6 AM, Updated: 2025-04-03
+ID: 228, Breed: Sheep, Age: 2, Weight: 70.0kg, RFID: sheeprfid006, Health: Healthy, Feeding: Fed grass at 3 PM, Updated: 2025-04-03
+ID: 229, Breed: Goat, Age: 4, Weight: 60.0kg, RFID: goatrfid007, Health: Dewormed recently, Feeding: Fed leaves at 10 AM, Updated: 2025-04-03
